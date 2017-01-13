@@ -1,8 +1,26 @@
+body {
+
+background-color: black;
+
+}
+
+h1 {
+
+	color: white;
+
+}
+
+h2 {
+
+	color:white;
+
+}
+
 #fortuneCookieText {
 
 	width: auto;
   	height: auto;
-  	background-color: teal;
+  	background-color: gold;
   	margin: 5px;
   	border: 2px solid #000000;
   	padding: 25px;
@@ -13,9 +31,10 @@
 
 	width: auto;
   	height: auto;
-  	background-color: crimson;
+  	background-color: Orange;
   	margin: 5px;
   	border: 2px solid #000000;
   	padding: 25px;
   	
 }
+
